@@ -1,0 +1,1 @@
+In this repository, all exercises corresponding to Udemy GIS courses I have worked in 2021 will be maintained.
